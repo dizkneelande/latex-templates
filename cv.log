@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024/Arch Linux) (preloaded format=xelatex 2024.11.27)  27 NOV 2024 17:17
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024/Arch Linux) (preloaded format=xelatex 2024.11.27)  27 NOV 2024 19:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -876,92 +876,92 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 Package: sqrcaps 2002/12/30 v1.0 package for Square Capitals fonts
 )
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 138.
+(Font)              scaled to size 10.0pt on input line 126.
  (./cv.aux)
 \openout1 = `cv.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 138.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 138.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 126.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 126.
  (/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 138.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 138.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 138.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 138.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 138.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 138.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 138.
-LaTeX Font Info:    Redeclaring math accent \check on input line 138.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 138.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 138.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 138.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 138.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 138.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 138.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 138.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 138.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 138.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 138.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 138.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 138.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 138.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 138.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 138.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 138.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 138.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 126.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 126.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 126.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 126.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 126.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 126.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 126.
+LaTeX Font Info:    Redeclaring math accent \check on input line 126.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 126.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 126.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 126.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 126.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 126.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 126.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 126.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 126.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 126.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 126.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 126.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 126.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 126.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 126.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 126.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 126.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 126.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 138.
+(Font)              `operators' in the math version `normal' on input line 126.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/LinLibertine(0)/m/n on input line 138.
+(Font)                  OT1/cmr/m/n --> TU/LinLibertine(0)/m/n on input line 126.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 138.
+(Font)              `operators' in the math version `bold' on input line 126.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/LinLibertine(0)/m/n on input line 138.
+(Font)                  OT1/cmr/bx/n --> TU/LinLibertine(0)/m/n on input line 126.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/LinLibertine(0)/m/n --> TU/LinLibertine(0)/m/n on input line 138.
+(Font)                  TU/LinLibertine(0)/m/n --> TU/LinLibertine(0)/m/n on input line 126.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/LinLibertine(0)/m/it on input line 138.
+(Font)                  OT1/cmr/m/it --> TU/LinLibertine(0)/m/it on input line 126.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/LinLibertine(0)/b/n on input line 138.
+(Font)                  OT1/cmr/bx/n --> TU/LinLibertine(0)/b/n on input line 126.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/LinBiolinum(0)/m/n on input line 138.
+(Font)                  OT1/cmss/m/n --> TU/LinBiolinum(0)/m/n on input line 126.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/LinLibertine(5)/m/n on input line 138.
+(Font)                  OT1/cmtt/m/n --> TU/LinLibertine(5)/m/n on input line 126.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/LinLibertine(0)/m/n --> TU/LinLibertine(0)/b/n on input line 138.
+(Font)                  TU/LinLibertine(0)/m/n --> TU/LinLibertine(0)/b/n on input line 126.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/LinLibertine(0)/b/it on input line 138.
+(Font)                  OT1/cmr/bx/it --> TU/LinLibertine(0)/b/it on input line 126.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/LinBiolinum(0)/b/n on input line 138.
+(Font)                  OT1/cmss/bx/n --> TU/LinBiolinum(0)/b/n on input line 126.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/LinLibertine(5)/b/n on input line 138.
-Package hyperref Info: Link coloring ON on input line 138.
+(Font)                  OT1/cmtt/m/n --> TU/LinLibertine(5)/b/n on input line 126.
+Package hyperref Info: Link coloring ON on input line 126.
  (./cv.out) (./cv.out)
 \@outlinefile=\write3
 \openout3 = `cv.out'.
@@ -1002,30 +1002,30 @@ Package hyperref Info: Link coloring ON on input line 138.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/n' will be
-(Font)              scaled to size 24.88pt on input line 140.
+(Font)              scaled to size 24.88pt on input line 128.
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/b/n' will be
-(Font)              scaled to size 24.88pt on input line 140.
+(Font)              scaled to size 24.88pt on input line 128.
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 140.
+(Font)              scaled to size 8.0pt on input line 128.
 File: cv/pdf.png Graphic file (type bmp)
 <cv/pdf.png>
 
-Overfull \hbox (3.33333pt too wide) in paragraph at lines 140--141
+Overfull \hbox (3.33333pt too wide) in paragraph at lines 128--129
 []  [] [] 
  []
 
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 142.
+(Font)              scaled to size 14.4pt on input line 130.
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/b/n' will be
-(Font)              scaled to size 14.4pt on input line 142.
+(Font)              scaled to size 14.4pt on input line 130.
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 145.
+(Font)              scaled to size 7.0pt on input line 133.
 LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
-(Font)              scaled to size 5.0pt on input line 145.
+(Font)              scaled to size 5.0pt on input line 133.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 145.
+(Font)              <7> on input line 133.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 145.
+(Font)              <5> on input line 133.
 File: cv/gh.png Graphic file (type bmp)
 <cv/gh.png>
 File: cv/email.png Graphic file (type bmp)
@@ -1035,137 +1035,69 @@ File: cv/spotify.png Graphic file (type bmp)
 File: cv/apple.png Graphic file (type bmp)
 <cv/apple.png>
 
-Overfull \hbox (1.66666pt too wide) in paragraph at lines 144--157
+Overfull \hbox (1.66666pt too wide) in paragraph at lines 132--145
 [][] [] 
  []
 
 File: cv/www.png Graphic file (type bmp)
 <cv/www.png>
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/sc' will be
-(Font)              scaled to size 10.0pt on input line 170.
+(Font)              scaled to size 10.0pt on input line 158.
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/b/n' will be
-(Font)              scaled to size 10.0pt on input line 170.
+(Font)              scaled to size 10.0pt on input line 158.
 LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/it' will be
-(Font)              scaled to size 10.0pt on input line 170.
-File: cv/www.png Graphic file (type bmp)
-<cv/www.png>
-File: cv/pdf.png Graphic file (type bmp)
-<cv/pdf.png>
-File: cv/pdf.png Graphic file (type bmp)
-<cv/pdf.png>
+(Font)              scaled to size 10.0pt on input line 158.
 [1
 
 ]
-File: cv/www.png Graphic file (type bmp)
-<cv/www.png>
-File: cv/pdf.png Graphic file (type bmp)
-<cv/pdf.png>
-File: cv/yt.png Graphic file (type bmp)
-<cv/yt.png>
-File: cv/pdf.png Graphic file (type bmp)
-<cv/pdf.png>
-File: cv/yt.png Graphic file (type bmp)
-<cv/yt.png>
-LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/b/it' will be
-(Font)              scaled to size 10.0pt on input line 258.
-LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/it' will be
-(Font)              scaled to size 8.0pt on input line 268.
-File: cv/pdf.png Graphic file (type bmp)
-<cv/pdf.png>
-File: cv/pdf.png Graphic file (type bmp)
-<cv/pdf.png>
-File: cv/pdf.png Graphic file (type bmp)
-<cv/pdf.png>
-File: cv/pdf.png Graphic file (type bmp)
-<cv/pdf.png>
+LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/n' will be
+(Font)              scaled to size 7.0pt on input line 226.
+LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 232.
+LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/b/n' will be
+(Font)              scaled to size 12.0pt on input line 232.
+LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 232.
+LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 232.
+LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
+(Font)              scaled to size 6.0pt on input line 232.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 232.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 232.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 232.
+LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/b/n' will be
+(Font)              scaled to size 7.0pt on input line 234.
+File: cv/gh.png Graphic file (type bmp)
+<cv/gh.png>
+File: cv/gh.png Graphic file (type bmp)
+<cv/gh.png>
+File: cv/gh.png Graphic file (type bmp)
+<cv/gh.png>
+File: cv/gh.png Graphic file (type bmp)
+<cv/gh.png>
+File: cv/gh.png Graphic file (type bmp)
+<cv/gh.png>
  [2]
-LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 311.
-File: cv/yt.png Graphic file (type bmp)
-<cv/yt.png>
-LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 317.
-LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/b/n' will be
-(Font)              scaled to size 12.0pt on input line 317.
-LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 317.
-LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 317.
-LaTeX Font Info:    Font shape `TU/LinLibertine(0)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 317.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 317.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 317.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 317.
-LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/b/n' will be
-(Font)              scaled to size 7.0pt on input line 319.
-File: cv/gh.png Graphic file (type bmp)
-<cv/gh.png>
-File: cv/gh.png Graphic file (type bmp)
-<cv/gh.png>
-File: cv/gh.png Graphic file (type bmp)
-<cv/gh.png>
-File: cv/www.png Graphic file (type bmp)
-<cv/www.png>
-File: cv/gh.png Graphic file (type bmp)
-<cv/gh.png>
-File: cv/gh.png Graphic file (type bmp)
-<cv/gh.png>
-File: cv/www.png Graphic file (type bmp)
-<cv/www.png>
- [3]
-File: cv/yt.png Graphic file (type bmp)
-<cv/yt.png>
-File: cv/yt.png Graphic file (type bmp)
-<cv/yt.png>
-LaTeX Font Info:    Font shape `TU/LinBiolinum(0)/m/sc' will be
-(Font)              scaled to size 7.0pt on input line 399.
-File: cv/yt.png Graphic file (type bmp)
-<cv/yt.png>
-File: cv/yt.png Graphic file (type bmp)
-<cv/yt.png>
-File: cv/yt.png Graphic file (type bmp)
-<cv/yt.png>
-File: cv/www.png Graphic file (type bmp)
-<cv/www.png>
-File: cv/www.png Graphic file (type bmp)
-<cv/www.png>
-File: cv/www.png Graphic file (type bmp)
-<cv/www.png>
- [4]
-File: cv/pdf.png Graphic file (type bmp)
-<cv/pdf.png>
-File: cv/gh.png Graphic file (type bmp)
-<cv/gh.png>
-File: cv/pdf.png Graphic file (type bmp)
-<cv/pdf.png>
-File: cv/yt.png Graphic file (type bmp)
-<cv/yt.png>
-File: cv/gh.png Graphic file (type bmp)
-<cv/gh.png>
-File: cv/pdf.png Graphic file (type bmp)
-<cv/pdf.png>
 File: cv/email.png Graphic file (type bmp)
 <cv/email.png>
-File: cv/www.png Graphic file (type bmp)
-<cv/www.png>
- [5] (./cv.aux)
+ [3] (./cv.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `cv.out' has not changed.
-(rerunfilecheck)             Checksum: B41954A8E912243CBF9DC53230EF58DF;1692.
+(rerunfilecheck)             Checksum: 53EA4A74F6C6978D96559E591C3253ED;1197.
  ) 
 Here is how much of TeX's memory you used:
- 22351 strings out of 476772
- 462760 string characters out of 5803393
+ 22324 strings out of 476772
+ 462272 string characters out of 5803393
  1944839 words of memory out of 5000000
- 44107 multiletter control sequences out of 15000+600000
- 565156 words of font info for 108 fonts, out of 8000000 for 9000
+ 44083 multiletter control sequences out of 15000+600000
+ 565132 words of font info for 105 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 93i,11n,115p,390b,364s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,11n,115p,356b,364s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on cv.pdf (5 pages).
+Output written on cv.pdf (3 pages).
