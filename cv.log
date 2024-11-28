@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024/Arch Linux) (preloaded format=xelatex 2024.11.27)  27 NOV 2024 19:58
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024/Arch Linux) (preloaded format=xelatex 2024.11.27)  28 NOV 2024 13:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1094,10 +1094,10 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: 53EA4A74F6C6978D96559E591C3253ED;1197.
  ) 
 Here is how much of TeX's memory you used:
- 22326 strings out of 476772
- 462374 string characters out of 5803393
+ 22327 strings out of 476772
+ 462381 string characters out of 5803393
  1944839 words of memory out of 5000000
- 44084 multiletter control sequences out of 15000+600000
+ 44085 multiletter control sequences out of 15000+600000
  565140 words of font info for 106 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  93i,11n,115p,356b,364s stack positions out of 10000i,1000n,20000p,200000b,200000s
