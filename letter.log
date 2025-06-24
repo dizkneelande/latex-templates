@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.5.15)  24 JUN 2025 13:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.5.15)  24 JUN 2025 16:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/nell/git/latex-templates/cv.tex
-(/home/nell/git/latex-templates/cv.tex
+**/home/nell/git/latex-templates/letter.tex
+(/home/nell/git/latex-templates/letter.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -268,37 +268,37 @@ LaTeX Info: Redefining \oldstylenums on input line 485.
  (/usr/share/texlive/texmf-dist/tex/latex/libertine/LinLibertine_I.tex)) (/usr/share/texlive/texmf-dist/tex/latex/bookhands/sqrcaps.sty
 Package: sqrcaps 2002/12/30 v1.0 package for Square Capitals fonts
 )
-LaTeX Font Info:    Trying to load font information for T1+LinuxBiolinumT-TLF on input line 127.
+LaTeX Font Info:    Trying to load font information for T1+LinuxBiolinumT-TLF on input line 126.
  (/usr/share/texlive/texmf-dist/tex/latex/libertine/T1LinuxBiolinumT-TLF.fd
 File: T1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/LinuxBiolinumT-TLF.
 )
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 127.
+(Font)              scaled to size 10.0pt on input line 126.
  (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count280
 \l__pdf_internal_box=\box52
-) (./cv.aux)
-\openout1 = `cv.aux'.
+) (./letter.aux)
+\openout1 = `letter.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 126.
+LaTeX Font Info:    ... okay on input line 126.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count281
@@ -318,10 +318,10 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring ON on input line 127.
- (./cv.out) (./cv.out)
+Package hyperref Info: Link coloring ON on input line 126.
+ (./letter.out) (./letter.out)
 \@outlinefile=\write3
-\openout3 = `cv.out'.
+\openout3 = `letter.out'.
 
 
 *geometry* driver: auto-detecting
@@ -361,132 +361,178 @@ Package hyperref Info: Link coloring ON on input line 127.
 \c@mv@tabular=\count287
 \c@mv@boldtabular=\count288
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 129.
+(Font)              scaled to size 24.88pt on input line 128.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 129.
+(Font)              scaled to size 24.88pt on input line 128.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 129.
-<cv/pdf.png, id=41, 1018.57047pt x 630.54362pt>
-File: cv/pdf.png Graphic file (type png)
-<use cv/pdf.png>
-Package pdftex.def Info: cv/pdf.png  used on input line 129.
-(pdftex.def)             Requested size: 10.97273pt x 6.80005pt.
+(Font)              scaled to size 8.0pt on input line 128.
 
-Overfull \hbox (3.334pt too wide) in paragraph at lines 129--130
+Underfull \hbox (badness 10000) in paragraph at lines 128--128
+
+ []
+
+
+Overfull \hbox (3.334pt too wide) in paragraph at lines 128--129
 []  [] [] 
  []
 
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 131.
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 131.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 134.
+(Font)              <7> on input line 133.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 134.
-<cv/gh.png, id=43, 0.97882pt x 0.97882pt>
+(Font)              <5> on input line 133.
+<cv/gh.png, id=8, 0.97882pt x 0.97882pt>
 File: cv/gh.png Graphic file (type png)
 <use cv/gh.png>
-Package pdftex.def Info: cv/gh.png  used on input line 136.
+Package pdftex.def Info: cv/gh.png  used on input line 135.
 (pdftex.def)             Requested size: 8.50256pt x 8.50006pt.
-<cv/email.png, id=45, 167.9073pt x 139.722pt>
+<cv/email.png, id=11, 167.9073pt x 139.722pt>
 File: cv/email.png Graphic file (type png)
 <use cv/email.png>
-Package pdftex.def Info: cv/email.png  used on input line 137.
+Package pdftex.def Info: cv/email.png  used on input line 136.
 (pdftex.def)             Requested size: 10.21234pt x 8.50006pt.
-<cv/spotify.png, id=47, 513.92pt x 530.98375pt>
+<cv/spotify.png, id=13, 513.92pt x 530.98375pt>
 File: cv/spotify.png Graphic file (type png)
 <use cv/spotify.png>
-Package pdftex.def Info: cv/spotify.png  used on input line 142.
+Package pdftex.def Info: cv/spotify.png  used on input line 141.
 (pdftex.def)             Requested size: 8.22601pt x 8.50006pt.
-<cv/apple.png, id=49, 513.92pt x 513.92pt>
+<cv/apple.png, id=15, 513.92pt x 513.92pt>
 File: cv/apple.png Graphic file (type png)
 <use cv/apple.png>
-Package pdftex.def Info: cv/apple.png  used on input line 143.
+Package pdftex.def Info: cv/apple.png  used on input line 142.
 (pdftex.def)             Requested size: 8.49263pt x 8.50006pt.
 
-Overfull \hbox (1.66699pt too wide) in paragraph at lines 133--146
+Overfull \hbox (1.66699pt too wide) in paragraph at lines 132--145
 [][] [] 
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+LinuxBiolinumT-TLF on input line 148.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
+(Font)              scaled to size 14.4pt on input line 146.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
+(Font)              scaled to size 14.4pt on input line 146.
+File: cv/email.png Graphic file (type png)
+<use cv/email.png>
+Package pdftex.def Info: cv/email.png  used on input line 151.
+(pdftex.def)             Requested size: 10.21234pt x 8.50006pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--152
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--152
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+LinuxBiolinumT-TLF on input line 162.
 (/usr/share/texlive/texmf-dist/tex/latex/libertine/TS1LinuxBiolinumT-TLF.fd
 File: TS1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for TS1/LinuxBiolinumT-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 148.
-<cv/www.png, id=52, 642.4pt x 401.5pt>
-File: cv/www.png Graphic file (type png)
-<use cv/www.png>
-Package pdftex.def Info: cv/www.png  used on input line 148.
-(pdftex.def)             Requested size: 13.59567pt x 8.50006pt.
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/sc' will be
-(Font)              scaled to size 10.0pt on input line 159.
+(Font)              scaled to size 10.0pt on input line 162.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 159.
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 159.
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 8.0pt on input line 159.
-LaTeX Font Info:    Font shape `TS1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 190.
- [1
+(Font)              scaled to size 10.0pt on input line 162.
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_afusau.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_omcwp2.enc} <./cv/pdf.png> <./cv/gh.png> <./cv/email.png> <./cv/spotify.png> <./cv/apple.png> <./cv/www.png>]
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 227.
-
-Underfull \hbox (badness 10000) in paragraph at lines 227--229
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
 
  []
 
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 233.
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 233.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 233.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 233.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 233.
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 7.0pt on input line 235.
+<cv/check.png, id=17, 803.0pt x 803.0pt>
+File: cv/check.png Graphic file (type png)
+<use cv/check.png>
+Package pdftex.def Info: cv/check.png  used on input line 171.
+(pdftex.def)             Requested size: 8.49117pt x 8.50006pt.
+File: cv/check.png Graphic file (type png)
+<use cv/check.png>
+Package pdftex.def Info: cv/check.png  used on input line 171.
+(pdftex.def)             Requested size: 8.49117pt x 8.50006pt.
+File: cv/check.png Graphic file (type png)
+<use cv/check.png>
+Package pdftex.def Info: cv/check.png  used on input line 171.
+(pdftex.def)             Requested size: 8.49117pt x 8.50006pt.
+File: cv/check.png Graphic file (type png)
+<use cv/check.png>
+Package pdftex.def Info: cv/check.png  used on input line 172.
+(pdftex.def)             Requested size: 8.49117pt x 8.50006pt.
+File: cv/check.png Graphic file (type png)
+<use cv/check.png>
+Package pdftex.def Info: cv/check.png  used on input line 172.
+(pdftex.def)             Requested size: 8.49117pt x 8.50006pt.
+File: cv/check.png Graphic file (type png)
+<use cv/check.png>
+Package pdftex.def Info: cv/check.png  used on input line 172.
+(pdftex.def)             Requested size: 8.49117pt x 8.50006pt.
+File: cv/check.png Graphic file (type png)
+<use cv/check.png>
+Package pdftex.def Info: cv/check.png  used on input line 172.
+(pdftex.def)             Requested size: 8.49117pt x 8.50006pt.
+File: cv/check.png Graphic file (type png)
+<use cv/check.png>
+Package pdftex.def Info: cv/check.png  used on input line 173.
+(pdftex.def)             Requested size: 8.49117pt x 8.50006pt.
+File: cv/check.png Graphic file (type png)
+<use cv/check.png>
+Package pdftex.def Info: cv/check.png  used on input line 173.
+(pdftex.def)             Requested size: 8.49117pt x 8.50006pt.
+File: cv/check.png Graphic file (type png)
+<use cv/check.png>
+Package pdftex.def Info: cv/check.png  used on input line 173.
+(pdftex.def)             Requested size: 8.49117pt x 8.50006pt.
+File: cv/check.png Graphic file (type png)
+<use cv/check.png>
+Package pdftex.def Info: cv/check.png  used on input line 174.
+(pdftex.def)             Requested size: 8.49117pt x 8.50006pt.
+File: cv/check.png Graphic file (type png)
+<use cv/check.png>
+Package pdftex.def Info: cv/check.png  used on input line 175.
+(pdftex.def)             Requested size: 8.49117pt x 8.50006pt.
+<cv/smiley.png, id=19, 451.6875pt x 451.6875pt>
+File: cv/smiley.png Graphic file (type png)
+<use cv/smiley.png>
+Package pdftex.def Info: cv/smiley.png  used on input line 178.
+(pdftex.def)             Requested size: 8.49806pt x 8.50006pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 240--242
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
 
  []
 
+[1
 
-Underfull \hbox (badness 10000) in paragraph at lines 245--247
-
- []
-
-File: cv/email.png Graphic file (type png)
-<use cv/email.png>
-Package pdftex.def Info: cv/email.png  used on input line 249.
-(pdftex.def)             Requested size: 10.21234pt x 8.50006pt.
-[2] (./cv.aux)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_afusau.enc} <./cv/gh.png> <./cv/email.png> <./cv/spotify.png> <./cv/apple.png> <./cv/check.png> <./cv/smiley.png (PNG copy)>] (./letter.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
-Package rerunfilecheck Info: File `cv.out' has not changed.
-(rerunfilecheck)             Checksum: C7CA19D867402F7279EF97B75BCF6D65;1138.
+Package rerunfilecheck Info: File `letter.out' has not changed.
+(rerunfilecheck)             Checksum: 9534070C232AA0A3F935CB7C3E3F8D46;35.
  ) 
 Here is how much of TeX's memory you used:
- 11561 strings out of 474222
- 185398 string characters out of 5748733
- 1948975 words of memory out of 5000000
- 33626 multiletter control sequences out of 15000+600000
- 634684 words of font info for 75 fonts, out of 8000000 for 9000
+ 11502 strings out of 474222
+ 184571 string characters out of 5748733
+ 1943975 words of memory out of 5000000
+ 33595 multiletter control sequences out of 15000+600000
+ 595132 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,79p,353b,461s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinBiolinumTI.pfb>
-Output written on cv.pdf (2 pages, 552517 bytes).
+ 75i,12n,79p,471b,458s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb>
+Output written on letter.pdf (1 page, 528099 bytes).
 PDF statistics:
- 100 PDF objects out of 1000 (max. 8388607)
- 75 compressed objects within 1 object stream
- 12 named destinations out of 1000 (max. 500000)
- 103 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 50 PDF objects out of 1000 (max. 8388607)
+ 30 compressed objects within 1 object stream
+ 3 named destinations out of 1000 (max. 500000)
+ 39 words of extra memory for PDF output out of 10000 (max. 10000000)
 

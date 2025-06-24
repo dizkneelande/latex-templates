@@ -1,0 +1,183 @@
+% xelatex
+\documentclass[letterpaper,
+		%twocolumn,
+		10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{metalogo}
+\usepackage{xifthen}
+\usepackage[colorlinks=true,urlcolor=Blue]{hyperref}
+\usepackage{graphicx}
+%\usepackage{fontspec}
+\usepackage[T1]{fontenc}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{titlesec}
+\usepackage[margin=1in]{geometry}
+\usepackage{titling}
+%\newfontfamily\cfont{Noto Sans CJK SC}
+\usepackage{libertine}
+
+% Macro to allow image links in XeLaTeX
+\ifxetex
+  \usepackage{letltxmacro}
+  \setlength{\XeTeXLinkMargin}{1pt}
+  \LetLtxMacro\SavedIncludeGraphics\includegraphics
+  \def\includegraphics#1#{% #1 catches optional stuff (star/opt. arg.)
+    \IncludeGraphicsAux{#1}%
+  }%
+  \newcommand*{\IncludeGraphicsAux}[2]{%
+    \XeTeXLinkBox{%
+      \SavedIncludeGraphics#1{#2}%
+    }%
+  }%
+\fi
+%%%%%%%
+
+% Bold contents of a link
+\let\oldhref\href
+\renewcommand{\href}[3][blue]{\oldhref{#2}{\color{#1}{#3}}}
+
+% Name:
+\author{Nell Yi}
+
+% Update date set to last compile:
+\date{\today}
+
+% Custom title command.
+\renewcommand{\maketitle}{
+	\hspace{.25\textwidth}
+	\begin{minipage}[t]{.5\textwidth}
+\par{\centering{\Huge  \bfseries{\theauthor}}\par}
+	\end{minipage}
+	\begin{minipage}[t]{.25\textwidth}
+
+{\footnotesize
+\makebox[\textwidth][r]{\color{gray} \thedate \quad Brisbane, QLD}
+}
+
+	\end{minipage}
+}
+
+
+
+% Setting the font I want:
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage{sqrcaps}
+
+% Making the \entry command
+\newcommand{\entry}[4]{
+\ifthenelse{\isempty{#3}}
+{\slimentry{#1}{#2}}{
+
+\begin{minipage}[t]{.15\linewidth}
+\hfill \textsc{#1}
+\end{minipage}
+\hfill\vline\hfill
+\begin{minipage}[t]{.80\linewidth}
+{\bf#2}\\\textit{#3} \footnotesize{#4}
+\end{minipage}\\
+\vspace{.2cm}
+}}
+
+\newcommand{\slimentry}[2]{
+
+\begin{minipage}[t]{.15\linewidth}
+\hfill \textsc{#1}
+\end{minipage}
+\hfill\vline\hfill
+\begin{minipage}[t]{.80\linewidth}
+#2
+\end{minipage}\\
+\vspace{.25cm}
+}% end \entry command definition
+
+% Some macros because I'm lazy:
+\newcommand{\mi}{Musicians Institute}
+\newcommand{\tafe}{TAFE NSW Ultimo}
+\newcommand{\jmi}{Jazz Music Institute}
+\newcommand{\qut}{Queensland University of Technology}
+
+
+
+
+
+\let\lineheight\baselineskip
+
+% Link images
+\newcommand{\pdf}{\includegraphics[height=.85em]{cv/pdf.png}}
+\newcommand{\yt}{\includegraphics[height=.85em]{cv/yt.png}}
+\newcommand{\gh}{\includegraphics[height=.85em]{cv/gh.png}}
+\newcommand{\www}{\includegraphics[height=.85em]{cv/www.png}}
+\newcommand{\email}{\includegraphics[height=.85em]{cv/email.png}}
+\newcommand{\spotify}{\includegraphics[height=.85em]{cv/spotify.png}}
+\newcommand{\apple}{\includegraphics[height=.85em]{cv/apple.png}}
+\newcommand{\checkicon}{\includegraphics[height=.85em]{cv/check.png}}
+\newcommand{\smiley}{\includegraphics[height=.85em]{cv/smiley.png}}
+
+% Custom section spacing and formatting
+\titleformat{\part}{\Huge\scshape\filcenter}{}{1em}{}
+\titleformat{\section}{\Large\bf\raggedright}{}{1em}{}[{\titlerule[2pt]}]
+\titlespacing{\section}{0pt}{3pt}{7pt}
+\titleformat{\subsection}{\large\bfseries\centering}{}{0em}{\underline}%[\rule{3cm}{.2pt}]
+\titlespacing{\subsection}{0pt}{7pt}{7pt}
+
+% No indentation
+\setlength{\parindent}{0in}
+
+\begin{document}
+
+\maketitle
+
+
+
+\begin{minipage}[t]{.5\linewidth}
+\begin{tabular}{rp{.75\linewidth}}
+	\baselineskip=20pt
+	\gh{} : & \href{https://github.com/dizkneelande}{github.com/dizkneelande}\\
+	\email{} :     & \href{mailto:nell.yi@outlook.com}{nell.yi@outlook.com}\\
+\end{tabular}
+\end{minipage}
+\begin{minipage}[t]{.5\linewidth}
+\begin{tabular}{rl}
+	\spotify{} : & \href{https://open.spotify.com/artist/3YK2Nbn69fzw2ztQWYXETj}{open.spotify.com/artist/Beneb}\\
+	\apple{} : &\href{https://music.apple.com/au/artist/beneb/1108759588}{music.apple.com/au/artist/TT\&E/}
+\end{tabular}
+\end{minipage}
+
+\section{}
+To: Melissa Dydula \\
+Siera Group \\
+145 Eagle Street \\
+Brisbane, QLD, 4000 \\
+\email{} : admin@sieragroup.com.au \\ \\
+
+Dear Melissa, \\
+
+I confess that I don't usually give QUT's UniHub platform enough attention - but I came across your job listing, and could not help but think that I would be perfect for this role. Let me explain:\\
+
+I am a final year student of Computer Science and Data Science - for what it's worth, academically I am a high achiever (if you put any stock into measures like GPA). My professional background is rather unconventional - in past lives I have been a colour technician, jazz musician, teacher and event coordinator - but gives me a unique combination of skills that I believe make me an efficient generalist.\\
+
+Two units that I thoroughly enjoyed this semester eerily coincide with Siera Group's business domain:
+
+\begin{itemize}
+\item \textbf{CAB420: Machine Learning}, in which my team's final project \& dissertation was about NLP-based text classification, using Google's GoEmotions dataset. It was here that I discovered a fascination for transformer-based machine learning architectures (such as LLMs like GPT)
+\item \textbf{BSB131: Applied Business Analytics}, in which I applied the full suite of statistical analysis to a hypothetical business problem (which happened to be about property valuation). I am comfortable with handling CRM data and the "dashboard" convention as it is understood in the real estate world.
+\end{itemize}
+
+Regarding tools/platforms that I am comfortable with, please refer to the CV attached with this letter; with respect to data visualisation, I have a preference for doing things the extensible way (e.g. Python libraries like matplot, plotly, seaborn, etc.) but I know my way around Excel as well. (I am also highly competent at googling for how-to's, as needed!)\\
+
+Still not sold on me? Let's go through the list:
+
+\begin{itemize}
+\item You love \textbf{tech}\checkicon{}, \textbf{data}\checkicon, or \textbf{automation}\checkicon
+\item You're enrolled in \textbf{IT}\checkicon, \textbf{Computer Science}\checkicon, \textbf{Data Science}\checkicon, or \textbf{Business/Analytics}\checkicon
+\item You've used tools like \textbf{Excel}\checkicon, \textbf{Power BI}\checkicon, HubSpot, or Zapier (or \textbf{confident you can learn fast}\checkicon)
+\item You want to get exposure to how AI is changing \textbf{real business — not just do theory}\checkicon
+\item \textbf{Bonus}\checkicon: if you're interested in real estate, property, or urban design
+\end{itemize}
+
+If you would like to get to know me, please \href{mailto:nell.yi@outlook.com}{email me}; I would love to get to know you. Thanks for your time \smiley\\
+
+Best,\\
+Nell Yi
+
+\end{document}
